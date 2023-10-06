@@ -1,0 +1,2 @@
+build:
+	cc app.cpp
